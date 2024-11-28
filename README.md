@@ -1,4 +1,4 @@
-## sanrio girly
+## ok but make it pink
 
 <!--
 **h4ppyb3rry/h4ppyb3rry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
