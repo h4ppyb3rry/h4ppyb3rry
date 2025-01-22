@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/bmcw213/hamster-hamtaro.gif" alt="hamster-hamtaro" border="0" height="2000">
+<img src="https://i.ibb.co/bmcw213/hamster-hamtaro.gif" alt="hamster-hamtaro" border="0" height="200">
 </p>
 <!--
 <p align="center">
