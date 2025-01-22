@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.clipart-library.com/images/oi6jMz7Mi.gif" alt="Cute GIF" />
+  <img src="https://vsgif.com/gif/3558143" alt="Cute GIF" />
 </p>
 
 <p align="center">
