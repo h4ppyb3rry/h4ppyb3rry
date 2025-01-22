@@ -1,8 +1,3 @@
-## 📈 Github Stats
-
-<p align="center">
-<img height="120" width="150" src="https://github.com/h4ppyb3rry/h4ppyb3rry/blob/main/right.png"/>
-</p>
 
 <p align="center">
   
@@ -14,7 +9,7 @@
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4ppyb3rry&theme=radical"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ppyb3rry&show_icons=true&theme=radical&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ppyb3rry&show_icons=true&theme=radical&layout=compact"/>
 
 </p>
 
