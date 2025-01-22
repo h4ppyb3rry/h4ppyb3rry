@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://i.ibb.co/bmcw213/hamster-hamtaro.gif" alt="hamster-hamtaro" border="0" height="150">
+<img src="https://i.ibb.co/bmcw213/hamster-hamtaro.gif" alt="hamster-hamtaro" border="0" height="2000">
 </p>
-
+<!--
 <p align="center">
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4ppyb3rry&theme=radical"/>
@@ -17,7 +17,7 @@
 </p>
 
 
-<!--
+
 **h4ppyb3rry/h4ppyb3rry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
